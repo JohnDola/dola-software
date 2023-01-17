@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{255:function(e,n,t){"use strict";t.r(n);var l=t(1).a.extend({name:"IndexPage"}),o=t(56),component=Object(o.a)(l,(function(){var e=this,n=e._self._c;e._self._setupProxy;return n("div",[e._v("This is Dola Software")])}),[],!1,null,null,null);n.default=component.exports}}]);
