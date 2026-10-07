@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="58" viewBox="28 4 222 58">
+  <rect width="273" height="76" rx="5" fill="#fff"/>
+  <g transform="translate(27 5) scale(.37)" fill="none">
+
+
+  <!-- Clipboard body -->
+  <rect x="20" y="26" width="88" height="92" rx="12" stroke="#2F3B44" stroke-width="10" />
+
+  <!-- Clip/tab -->
+  <rect x="44" y="10" width="40" height="24" rx="8" fill="#2F3B44"/>
+  <circle cx="64" cy="22" r="6" fill="#2F3B44"/>
+
+  <!-- Check mark -->
+  <path d="M40 72 L58 90 L90 52" stroke="#2B6AA6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-family="sans-serif">
+    <text font-family="sans-serif" x="88" y="31" font-size="25" fill="#4b5563">Sort<tspan font-weight="700" fill="#225fa9">Tec</tspan></text>
+    <text font-family="sans-serif" x="88" y="49" font-size="11.5" fill="#7a8595">Sortieren.<tspan fill="#667085">Prüfen.</tspan><tspan font-weight="700" fill="#667085">Vertrauen.</tspan></text>
+  </g>
+</svg>

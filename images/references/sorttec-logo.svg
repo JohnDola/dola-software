@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .outline { stroke: #2F3B44; }
+    .fill-dark { fill: #2F3B44; }
+    .accent { stroke: #2B6AA6; }
+  </style>
+
+  <!-- Clipboard body -->
+  <rect x="20" y="26" width="88" height="92" rx="12" class="outline" stroke-width="10" />
+
+  <!-- Clip/tab -->
+  <rect x="44" y="10" width="40" height="24" rx="8" class="fill-dark"/>
+  <circle cx="64" cy="22" r="6" class="fill-dark"/>
+
+  <!-- Check mark -->
+  <path d="M40 72 L58 90 L90 52" class="accent" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
